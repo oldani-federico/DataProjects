@@ -1,4 +1,4 @@
-## Personal Project Here - Tracking Car Gas Consumption:
+## Personal Project - Tracking Car Gas Consumption
 
 I send myself a text on Whatsapp every time I get gas to record current car milage (important to keep track when driving a lease), gallons of gas entered in the car and how much money was spent.
 
